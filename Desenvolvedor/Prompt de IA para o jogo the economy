@@ -1,0 +1,29 @@
+Quero ajuda da concepção ao fim do projeto para um jogo rpg sandbox baseado na economia mundial. nesse jogo os personagens podem assumir o papel cientistas, professores, militares, policiais, medicos, enfermeiros, politicos, pequenos empreendedores, funcionarios ou CEOs de grandes empresas.
+
+Este jogo devera mesclar na sua base as ideias dos jogos sim city e the syns, onde cidades poderão ser construidas do zero e cidadões poderão assumir papeis na economia dessas cidades, estados ou paises influenciando diretamente na economia do jogo com suas ações e decisões.
+
+O diferencial desse jogo é a tecnologia da informação que devera estar intrincicamente araizada nas entranhas do jogo, pois sera atraves dela que cada jogador podera interagir com as instituições e organizações publicas e privadas, bem como o comercio municipal, nacional ou mundial, podendo realizar compras de mercadorias de maneira fisica/presencial ou de modo digital pela internet. Cada personagem poderá criar sua propria empresa ou comprar para investir em empresas de terceiros através da bolsa de valores ou grupo de investimentos.
+
+Esse jogo devera ser representado em um mapa mundi, subdividido entre continentes, paisses,  estados e cidades. Cada territoria devera possuir sua administração independente tendo sua economia e exercito proprios.
+
+A industria sera dividida em :
+
+Primaria: Pesca e agricultura, industria de extração minerios e materia-prima, extração de petroleo e gas.
+
+Secundaria: Transformação de matéria-prima em produtos (manufatura, construção, siderurgia)
+
+Terciária: Serviços e TI.
+
+Neste jogo a infraestrutura ditará as regras, pois nada poderá ser realizado sem possuir a infraetrutura necessária. Desde commodities, industrias, fabricas, infreaestrutura energetica e hidrica, estradas, ferrovias, portos e aeroportos, tecnologia da informação e é claro mão de obra qualificada, pois nesse jogo os personagens deverão possuir treinamento e conecimento pre-adquirido para atuar nas diferentes areas da economia do jogo.
+
+O sistema de TI e IA deverão governar o jogo, pois deverá existir uma infraestrutura real de  TI para telecomunicações e gestão de dados e informações com a ajuda de softwares e algoritmos.
+
+A infraestrutura de TI devera ser baseada em cabos de transmissão e distribuição de fibra optica, qu poderão ser aereos ou subterraneos, que irão conectar roteadores, switchs, firewalls e servidores que seão responsáveis por armazenar e gerenciar as informações do jogo. Os servidores deverão possuir Sistemas Operacioais e Softwares ERPs para a administração das empresas e organizações publicas, governamentais ou privadas do jogo. Sendo passiveis de invação e roubo ou alteração de dados, bem como transferencias bancarias indevidas, realizadas por hackers, caso não sejam devidamente protegidas pos sistemas de segurança da informação, como firewalls e antivirus.
+
+O motor do jogo devera ser criado em modo de micro-servicos sendo subdivididos em apis criandas com Java e SpringBoot e demais ferramentas pertinentes, tendo o front-end criado com Unity.
+
+Banco de dados inicial será o MySql, que futuramente sera substituido por Postgree.
+
+Observação Importante:
+
+Preciso ser tutelado do incio ao fim do projeto, recebendo orientações para a criação de cada componente do motor do jogo. A parte de Front-End Unity será realizada em uma segunda etapa, depois do motor do jogo estiver funcional para os peimeiros testes.
